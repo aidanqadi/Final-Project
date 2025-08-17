@@ -1,0 +1,24 @@
+Proposed Dataset:
+Online Retail from the UCI Machine Learning Repository
+Link:  https://archive.ics.uci.edu/ml/datasets/Online+Retail
+(Direct-download: https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx)
+
+1. Five Questions to Explore
+1. Which products generate the most revenue?
+Identify the top-10 SKUs by total sales to guide inventory and promotion decisions.
+2. How do sales trend over time?
+Analyze monthly/seasonal patterns to help the company plan for peak demand and staffing.
+3. How can customers be segmented by RFM (Recency, Frequency, Monetary)?
+Cluster customers into high-value, at-risk, and occasional groups to tailor marketing campaigns.
+4. Which countries (outside the UK) contribute most to international revenue?
+Discover high-growth regions for potential localized marketing or new distribution channels.
+5. What’s the relationship between unit price and quantity sold?
+Examine whether discounts (lower unit price) reliably drive larger order quantities or erode margins.
+2. Potential Client & Value
+Client: An online retail company (similar to the original data source) looking to optimize its product mix, customer outreach, and international expansion.
+Value:
+* Inventory optimization through identification of best-selling items and seasonal trends
+* Targeted marketing via customer segmentation (RFM)
+* Strategic growth by pinpointing lucrative overseas markets
+* Pricing strategy insights by understanding price–volume dynamics
+
