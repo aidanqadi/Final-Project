@@ -11,7 +11,7 @@ Provide clear, client-ready guidance for **inventory & promotions**, **staffing 
 - **Milestone 1** *(Text Document)* — Project idea & client framing; five candidate questions; dataset link/context.
 - **Milestone2A** *(Jupyter Notebook)* — Data import and **initial EDA**: `describe()`, `info()`, `shape`, `dtypes`, `head/tail/sample`, column review.
 - **Milestone 3** *(Jupyter Notebook)* — **Data cleaning**: remove cancellations (InvoiceNo starting with “C”), keep positive `Quantity`/`UnitPrice`, compute **Revenue = Quantity × UnitPrice**, date/type coercions, notes on NaNs/outliers.
-- **Milestone 4** *(Jupyter Notebook)* — **Final analysis & visuals** answering the 5 questions:  
+- We are seeking to answer these 5 questions:  
   1) Top products by revenue (Top-10 SKUs)  
   2) Monthly/seasonal sales trend  
   3) RFM segmentation (High-Value / At-Risk / Occasional)  
